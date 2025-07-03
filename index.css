@@ -20,7 +20,7 @@ aside {
 }
 
 .brand {
-    color: #007bfe;
+    color: #006ADB;
     font-weight: bold;
     font-size: 1.5rem;
     text-transform: uppercase;
@@ -49,7 +49,8 @@ header {
 
 li {
     color: #ffffff;
-    background-color: #007bfe;
+    background-color: #006CE0;
+    letter-spacing: 0.05rem;
     padding: 8px;
 }
 
@@ -72,11 +73,12 @@ nav {
 
 p {
     color: #003c7b;
+    letter-spacing: 0.03rem;
 }
 
 .testimonial {
-    background-color: aliceblue;
-    color: #007bfe;
+    background-color: #e3f1ff;
+    color: #0066d3;
     font-weight: medium;
     font-style: italic;
     margin-top: 16px;
